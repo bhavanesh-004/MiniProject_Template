@@ -1,7 +1,24 @@
-# Requirements
+# Cricket player scorecard
 
-* Capture all the requirements wrt system, module, interface, integration, testing, Functional and Non-functional
-* Captures Basic Planning of the project through - Sample Gantt Chart attached
+Cricket player Scorecard Sumproject is a simple project built using the C programming language.
+ It uses file handling to store various information regarding runs, wickets, overs, extras, and many more.
 
-* Tools: MS Excel, MS word or Similar
+
+ 
+ # The program can display 
+
+      . Batsman details
+   
+      . Bowlers details 
+   
+      . Match Summary
+   
+      . Record of batsman  and Bowlers
+ 	 
+      .final result 
+   
+# details
+ 
+            * NUMBER OF Batsman name 
+            * NUMBER OF  Bowlers name
 
