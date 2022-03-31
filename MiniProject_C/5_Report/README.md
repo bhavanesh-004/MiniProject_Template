@@ -20,5 +20,31 @@
 *	If ‘1’ is entered, Cricket Player Score Board asks for the batsman of new score sheet.
 
 * If ‘2’ is entered, Cricket Player Score Board asks for the bowlers of new score sheet. 
-* If ‘3’ is entered, Cricket Player Score Board asks for the over all summary details of new score sheet. .
+* If ‘3’ is entered, Cricket Player Score Board asks for the over all summary details of new score sheet. 
+
+
+
+# CONCLUSION
+
+Batsman
+
+* DHONI 2010-2022
+
+           -----> RUNS 5000 
+             
+  
+* KHOLI 2012-2022
+        --------> RUNS 9000
+ 
+ Bowlers
+ 
+ *UMESH 2010-2022
+          ----->wickets 150
+          
+  *LEE 2010-2012
+           ---->wickets 50
+        
+   *NEHRA 2010-2016
+         ----->WICKETS 105
+ 
 
