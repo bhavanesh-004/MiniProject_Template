@@ -29,8 +29,7 @@
 Batsman
 
 * DHONI 2010-2022
-
-           -----> RUNS 5000 
+         -----> RUNS 5000 
              
   
 * KHOLI 2012-2022
